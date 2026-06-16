@@ -1,7 +1,7 @@
 # Olá, sou Caique de Oliveira! 👋
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745cc-7d22-481b-91c0-4f947930261b.gif" alt="Python Red Coding GIF" width="100%"/>
+  <img src="https://raw.githubusercontent.com/BrendoAnjos/BrendoAnjos/main/matrix-red.gif" alt="Python Red Coding GIF" width="100%"/>
 </div>
 
 <br>
