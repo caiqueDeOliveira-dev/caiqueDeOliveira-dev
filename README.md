@@ -1,7 +1,7 @@
 # Olá, sou Caique de Oliveira! 👋
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Python Dark Banner" />
+  <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Tech Workspace Illustration" />
 </div>
 
 <br>
