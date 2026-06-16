@@ -1,12 +1,12 @@
 # Olá, sou Caique de Oliveira! 👋
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Tech Workspace Illustration" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q4NDIxNjh6cXAwa3M1cXdrcm1rcHFmcnZhaXltbXVyY3NrdzV5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2pYvB6C862tG41TzL/giphy.gif" alt="Python Red Coding GIF" width="100%"/>
 </div>
 
 <br>
 
-Desenvolvedor apaixonado por criar soluções functionalidades, automações e sistemas estruturados. Atualmente, tenho meu foco voltado para o ecossistema **Python**, desenvolvendo ferramentas que otimizam processos, aplicações desktop e integração de sistemas.
+Desenvolvedor apaixonado por criar soluções funcionais, automações e sistemas estruturados. Atualmente, tenho meu foco voltado para o ecossistema **Python**, desenvolvendo ferramentas que otimizam processos, aplicações desktop e integração de sistemas.
 
 ---
 
@@ -31,17 +31,17 @@ Aqui estão alguns dos projetos principais que desenvolvi para resolver problema
 *   **📦 Sistema de Inventário de Clãs**
     *   *Descrição:* Uma solução focada na gestão automatizada de recursos, distribuição de equipamentos e controle de membros para comunidades de jogos.
     *   *Tecnologias:* Python, manipulação de dados e automação de fluxos.
-    *   *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/Sistema-Inventario-Clas)*
+    *   *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/NOME-DO-REPOSITORIO-AQUI)*
 
 *   **📝 To-Do List Desktop**
     *   *Descrição:* Gerenciador de tarefas dinâmico com interface gráfica e persistência de dados local para garantir que nenhuma tarefa seja perdida.
     *   *Tecnologias:* Python, Tkinter.
-    *   *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/todo-list-tkinter)*
+    *   *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/NOME-DO-REPOSITORIO-AQUI)*
 
 *   **🔐 Sistema de Login & Autenticação**
     *   *Descrição:* Sistema estruturado para validação de usuários, segurança de credenciais e controle de acesso com interface interativa.
     *   *Tecnologias:* Python, Tkinter.
-    *   *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/sistema-login-python)*
+    *   *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/NOME-DO-REPOSITORIO-AQUI)*
 
 ---
 
