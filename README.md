@@ -1,8 +1,7 @@
 # Olá, sou Caique de Oliveira! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiqueDeOliveira-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="160em" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueDeOliveira-dev&layout=compact&langs_count=7&theme=dark" height="160em" alt="Top Languages" />
+  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Python Dark Banner" />
 </div>
 
 <br>
