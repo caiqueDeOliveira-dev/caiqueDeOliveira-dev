@@ -1,7 +1,7 @@
 # Olá, sou Caique de Oliveira! 👋
 
 <p align="center">
-  <img src="./giphy.gif" alt="Retro Synthwave Red Car Animation" width="100%" />
+  <img src="./giphy (3).gif" alt="Retro Synthwave Red Car Animation" width="100%" />
 </p>
 
 <br>
