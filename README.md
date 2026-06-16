@@ -50,5 +50,5 @@ Aqui estão alguns dos projetos principais que desenvolvi para resolver problema
 
 Se quiser trocar uma ideia sobre desenvolvimento, automação ou colaboração em projetos, fique à vontade para me encontrar em:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINK-DO-LINKEDIN-AQUI)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-deoliveira-dev/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caquedeoliveira.dev@gmail.com)
