@@ -1,7 +1,7 @@
 # Olá, sou Caique de Oliveira! 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrendoAnjos/BrendoAnjos/main/matrix-red.gif" alt="Matrix Code Animation" width="100%" />
+  <img src="./giphy.gif" alt="Futuristic Tech Animation" width="100%" />
 </p>
 
 <br>
