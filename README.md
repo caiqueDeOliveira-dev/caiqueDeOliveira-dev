@@ -1,7 +1,7 @@
 # Olá, sou Caique de Oliveira! 👋
 
 <p align="center">
-  <img src="./giphy.gif" alt="Futuristic Tech Animation" width="100%" />
+  <img src="./giphy.gif" alt="Retro Synthwave Red Car Animation" width="100%" />
 </p>
 
 <br>
@@ -19,8 +19,8 @@ Aqui estão as principais ferramentas e tecnologias que utilizo no meu dia a dia
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-*   **Interface Gráfica (GUI):** Tkinter / CustomTkinter
-*   **Persistência de Dados:** Manipulação avançada de arquivos (TXT/JSON/CSV) e integração com automações
+* **Interface Gráfica (GUI):** Tkinter / CustomTkinter
+* **Persistência de Dados:** Manipulação avançada de arquivos (TXT/JSON/CSV) e integração com automações
 
 ---
 
@@ -28,20 +28,20 @@ Aqui estão as principais ferramentas e tecnologias que utilizo no meu dia a dia
 
 Aqui estão alguns dos projetos principais que desenvolvi para resolver problemas reais e praticar minha lógica:
 
-*   **📦 Sistema de Inventário de Clãs**
-    *   *Descrição:* Uma solução focada na gestão automatizada de recursos, distribuição de equipamentos e controle de membros para comunidades de jogos.
-    *   *Tecnologias:* Python, manipulação de dados e automação de fluxos.
-    *   *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/Sistema-Inventario-Clas)*
+* **📦 Sistema de Inventário de Clãs**
+    * *Descrição:* Uma solução focada na gestão automatizada de recursos, distribuição de equipamentos e controle de membros para comunidades de jogos.
+    * *Tecnologias:* Python, manipulação de dados e automação de fluxos.
+    * *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/Sistema-Inventario-Clas)*
 
-*   **📝 To-Do List Desktop**
-    *   *Descrição:* Gerenciador de tarefas dinâmico com interface gráfica e persistência de dados local para garantir que nenhuma tarefa seja perdida.
-    *   *Tecnologias:* Python, Tkinter.
-    *   *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/todo-list-tkinter)*
+* **📝 To-Do List Desktop**
+    * *Descrição:* Gerenciador de tarefas dinâmico com interface gráfica e persistência de dados local para garantir que nenhuma tarefa seja perdida.
+    * *Tecnologias:* Python, Tkinter.
+    * *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/todo-list-tkinter)*
 
-*   **🔐 Sistema de Login & Autenticação**
-    *   *Descrição:* Sistema estruturado para validação de usuários, segurança de credenciais e controle de acesso com interface interativa.
-    *   *Tecnologias:* Python, Tkinter.
-    *   *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/sistema-login-python)*
+* **🔐 Sistema de Login & Autenticação**
+    * *Descrição:* Sistema estruturado para validação de usuários, segurança de credenciais e controle de acesso com interface interativa.
+    * *Tecnologias:* Python, Tkinter.
+    * *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/sistema-login-python)*
 
 ---
 
