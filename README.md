@@ -7,7 +7,7 @@
 
 <br>
 
-Desenvolvedor apaixonado por criar soluções funcionais, automações e sistemas estruturados. Atualmente, tenho meu foco voltado para o ecossistema **Python**, desenvolvendo ferramentas que otimizam processos, aplicações desktop e integração de sistemas.
+Desenvolvedor apaixonado por criar soluções functionalidades, automações e sistemas estruturados. Atualmente, tenho meu foco voltado para o ecossistema **Python**, desenvolvendo ferramentas que otimizam processos, aplicações desktop e integração de sistemas.
 
 ---
 
@@ -32,17 +32,17 @@ Aqui estão alguns dos projetos principais que desenvolvi para resolver problema
 *   **📦 Sistema de Inventário de Clãs**
     *   *Descrição:* Uma solução focada na gestão automatizada de recursos, distribuição de equipamentos e controle de membros para comunidades de jogos.
     *   *Tecnologias:* Python, manipulação de dados e automação de fluxos.
-    *   *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/NOME-DO-REPOSITORIO-AQUI)*
+    *   *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/Sistema-Inventario-Clas)*
 
 *   **📝 To-Do List Desktop**
     *   *Descrição:* Gerenciador de tarefas dinâmico com interface gráfica e persistência de dados local para garantir que nenhuma tarefa seja perdida.
     *   *Tecnologias:* Python, Tkinter.
-    *   *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/NOME-DO-REPOSITORIO-AQUI)*
+    *   *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/todo-list-tkinter)*
 
 *   **🔐 Sistema de Login & Autenticação**
     *   *Descrição:* Sistema estruturado para validação de usuários, segurança de credenciais e controle de acesso com interface interativa.
     *   *Tecnologias:* Python, Tkinter.
-    *   *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/NOME-DO-REPOSITORIO-AQUI)*
+    *   *👉 [Ver Repositório](https://github.com/caiqueDeOliveira-dev/sistema-login-python)*
 
 ---
 
@@ -51,4 +51,4 @@ Aqui estão alguns dos projetos principais que desenvolvi para resolver problema
 Se quiser trocar uma ideia sobre desenvolvimento, automação ou colaboração em projetos, fique à vontade para me encontrar em:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-deoliveira-dev/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caquedeoliveira.dev@gmail.com)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiquedeoliveira.dev@gmail.com)
