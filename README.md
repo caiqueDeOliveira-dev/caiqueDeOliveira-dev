@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Dev e Caos Digital (1).mp4" width="100%" alt="Caique de Oliveira Dev - Automação e Código" />
+  <img src="banner.gif" width="100%" alt="Dev e Caos Digital (1).mp4" />
 
   <h1>🩸 CAIQUE DE OLIVEIRA SOUZA</h1>
   
