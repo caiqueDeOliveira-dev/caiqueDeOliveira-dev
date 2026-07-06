@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Imagem do Lobo como Banner Principal -->
-  <img src="https://image.api.playstation.com/vulcan/img/rnd/202011/1717/Z9m1w6V3G0g9L5h2U0A9Z3v1.png" width="100%" alt="Lobo sob Lua Vermelha" />
+  <img src="Dev e Caos Digital (1).mp4" width="100%" alt="Caique de Oliveira Dev - Automação e Código" />
 
   <h1>🩸 CAIQUE DE OLIVEIRA SOUZA</h1>
   
@@ -59,11 +58,18 @@ Navegue diretamente pelos módulos de desenvolvimento ativos no meu perfil:
 
 ---
 
-### 📊 Painel de Controle (Métricas do Servidor)
+### 📊 Painel de Controle (Automação de Métricas em Tempo Real)
+
+Este painel monitora e computa automaticamente o envio de códigos, o tempo de atividade e a distribuição de linguagens de programação integradas diretamente ao ecossistema através de requisições de API assíncronas do GitHub.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiqueDeOliveira-dev&show_icons=true&theme=blood&include_all_commits=true&count_private=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=000000" alt="Estatísticas do GitHub" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueDeOliveira-dev&layout=compact&theme=blood&title_color=FF0000&text_color=ffffff&bg_color=000000" alt="Linguagens Mais Usadas" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caiqueDeOliveira-dev&show_icons=true&theme=blood&include_all_commits=true&count_private=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=000000" alt="Estatísticas Automatizadas" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueDeOliveira-dev&layout=compact&theme=blood&title_color=FF0000&text_color=ffffff&bg_color=000000" alt="Análise de Linguagens do Sistema" height="160" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiqueDeOliveira-dev&theme=blood&background=000000&ring=FF0000&fire=FF0000&title=FF0000&text=ffffff" alt="Métricas de Consistência de Código" />
 </div>
 
 ---
