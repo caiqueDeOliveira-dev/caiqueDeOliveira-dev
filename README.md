@@ -6,7 +6,21 @@
 
 **Desenvolvedor Full-Stack** · Automações · Arquitetura de Software
 
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-Criador_de_ECO-sistema-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
 Construindo um ecossistema de aplicações com IA multi-agente. Especializado em back-end, automação de fluxos, integração de dados e sistemas de alta performance.
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=caiqueDeOliveira-dev&style=for-the-badge&color=red" alt="Profile Views" />
+<a href="https://github.com/caiqueDeOliveira-dev?tab=followers">
+  <img src="https://img.shields.io/github/followers/caiqueDeOliveira-dev?label=Seguidores&style=for-the-badge&color=181717&logo=github&logoColor=white" alt="Followers" />
+</a>
+<a href="https://github.com/caiqueDeOliveira-dev?tab=repositories">
+  <img src="https://img.shields.io/github/stars/caiqueDeOliveira-dev?label=Stars&affiliations=OWNER&style=for-the-badge&color=FFD700&logo=github&logoColor=white" alt="Stars" />
+</a>
 
 </div>
 
@@ -51,6 +65,7 @@ Atuo na interseção entre **engenharia de software**, **automação** e **arqui
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -85,6 +100,7 @@ Atuo na interseção entre **engenharia de software**, **automação** e **arqui
       <p align="center">Suite de segurança e otimização do ecossistema Orun. Motor Shield (ClamAV, VirusTotal, YARA, firewall, quarentena) + System Optimizer. 6 pacotes, 124 testes.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/tests-124%20passing-2E7D32?style=for-the-badge" alt="Tests" />
       </p>
     </td>
     <td width="50%">
@@ -106,6 +122,16 @@ Atuo na interseção entre **engenharia de software**, **automação** e **arqui
       </p>
     </td>
     <td width="50%">
+      <h3 align="center"><a href="https://github.com/caiqueDeOliveira-dev/Orun-Core">⚙️ Orun-Core</a></h3>
+      <p align="center">Núcleo compartilhado do ecossistema: engine de sync SQLite↔Supabase, tipos de satélites e controle de dispositivos.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center"><a href="https://github.com/caiqueDeOliveira-dev/Site-Caique-O-Castaldeli-Portifolio">💼 Portfólio Pessoal</a></h3>
       <p align="center">Portfólio profissional desenvolvido em React + TypeScript + Tailwind CSS, com backend Express/Prisma.</p>
       <p align="center">
@@ -114,14 +140,22 @@ Atuo na interseção entre **engenharia de software**, **automação** e **arqui
         <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
       </p>
     </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/caiqueDeOliveira-dev/Hub.CaiqueOCastaldeli">🌐 Hub Pessoal</a></h3>
+      <p align="center">Portal dark futurista do desenvolvedor, construído com React 19, TypeScript, Tailwind CSS v4 e Framer Motion.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      </p>
+    </td>
   </tr>
 </table>
 
 ### 📦 Mais projetos
 
-- ⚙️ [**Orun-Core**](https://github.com/caiqueDeOliveira-dev/Orun-Core) — Núcleo compartilhado do ecossistema: engine de sync SQLite↔Supabase, tipos de satélites e controle de dispositivos
 - 🐍 [**sistema-login-python**](https://github.com/caiqueDeOliveira-dev/sistema-login-python) — Sistema de autenticação e login em Python com foco em lógica de programação
-- 📦 [**Sistema-Inventario-Clas**](https://github.com/caiqueDeOliveira-dev/Sistema-Inventario-Clas) — Gestão de inventário de clãs e membros
+- 🗂️ [**Sistema-Inventario-Clas**](https://github.com/caiqueDeOliveira-dev/Sistema-Inventario-Clas) — Gestão de inventário de clãs e membros
 - ✅ [**todo-list-tkinter**](https://github.com/caiqueDeOliveira-dev/todo-list-tkinter) — To-Do List desktop em Python/Tkinter com persistência local
 
 ---
@@ -129,20 +163,24 @@ Atuo na interseção entre **engenharia de software**, **automação** e **arqui
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiqueDeOliveira-dev&show_icons=true&theme=dark&count_private=true" alt="Estatísticas" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueDeOliveira-dev&layout=compact&theme=dark" alt="Linguagens" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caiqueDeOliveira-dev&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Estatísticas" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueDeOliveira-dev&layout=compact&theme=dark&hide_border=true" alt="Linguagens" height="160" />
 </div>
 
 <div align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiqueDeOliveira-dev&theme=dark" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiqueDeOliveira-dev&theme=dark&hide_border=true" alt="Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=caiqueDeOliveira-dev&theme=onedark&no-frame=true&no-bg=true&row=2&column=4" alt="Troféus" />
 </div>
 
 ---
 
 ## 📬 Entre em contato
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/caiquecastaldeli" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -150,7 +188,10 @@ Atuo na interseção entre **engenharia de software**, **automação** e **arqui
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/caiqueDeOliveira-dev?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
+    <img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
+  </a>
+  <a href="https://instagram.com/caiquecastaldeli" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
