@@ -190,7 +190,7 @@ Atuo na interseção entre **engenharia de software**, **automação** e **arqui
   <a href="https://github.com/caiqueDeOliveira-dev?tab=repositories">
     <img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
   </a>
-  <a href="https://instagram.com/caiquecastaldeli" target="_blank">
+  <a href="https://www.instagram.com/caique.o.castaldeli/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
