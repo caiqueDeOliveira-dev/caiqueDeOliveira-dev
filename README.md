@@ -1,99 +1,161 @@
 <div align="center">
-  <img src="banner.gif" width="100%" alt="Caique de Oliveira Dev - Automação e Código" />
 
-  <h1>🩸 CAIQUE DE OLIVEIRA SOUZA</h1>
-  
-  <p><i>Digital Content Creator, Streamer & Developer</i></p>
+<img src="banner.gif" width="100%" alt="Caique de Oliveira Dev" />
 
-  <p>
-    <a href="https://hub-caique-o-castalde-git-a6b922-caiquedeoliveira-devs-projects.vercel.app"><img src="https://img.shields.io/badge/Acessar_Caique_Hub-000000?style=for-the-badge&logo=vercel&logoColor=FF0000" /></a>
-    <a href="https://site-caique-o-castald-git-d95bd7-caiquedeoliveira-devs-projects.vercel.app/sobre"><img src="https://img.shields.io/badge/Sobre_Mim_Site-000000?style=for-the-badge&logo=vercel&logoColor=FF0000" /></a>
-  </p>
+# 👨‍💻 Caique de Oliveira Souza
+
+**Desenvolvedor Full-Stack** · Automações · Arquitetura de Software
+
+Construindo um ecossistema de aplicações com IA multi-agente. Especializado em back-end, automação de fluxos, integração de dados e sistemas de alta performance.
+
 </div>
 
 ---
 
-### ☠️ Sobre o Desenvolvedor
+## 🧠 Sobre mim
 
-Atuo na intersecção entre o gerenciamento de comunidades digitais, criação de conteúdo e o desenvolvimento de software. Especializado em lógica, estruturação de fluxos operacionais e **arquitetura de automações**. Desenvolvo sistemas robustos de integração de dados, bots de moderação de alta performance e ecossistemas automatizados voltados para o engajamento e gerenciamento de clãs e plataformas de streaming.
+Atuo na interseção entre **engenharia de software**, **automação** e **arquitetura de sistemas**. Desenvolvo aplicações desktop, mobile e web — incluindo um ecossistema completo com assistentes de IA, integrações com WhatsApp/Telegram, players de mídia e suites de segurança.
 
-- ⚙️ **Foco de Engenharia:** Desenvolvimento back-end, lógica de automação, manipulação dinâmica de planilhas e APIs de bots.
-- 🎨 **Estética de Código:** Ambientes otimizados de alta performance sob a identidade visual *dark/cyberpunk*.
-- ⚔️ **Liderança Digital:** Administrador principal da infraestrutura técnica e de automações da **Tropa Do CaOS**.
-
----
-
-### 🛠️ Arsenal Técnico & Ferramentas
-
-#### 🔴 Linguagens & Core Web
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=FF0000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=FF0000" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=FF0000" alt="CSS3" />
-</div>
-
-#### 🔴 Automação, Bots & Workflow
-<div>
-  <img src="https://img.shields.io/badge/Zapier-111111?style=for-the-badge&logo=zapier&logoColor=FF0000" alt="Zapier" />
-  <img src="https://img.shields.io/badge/Google_Sheets-111111?style=for-the-badge&logo=googlesheets&logoColor=FF0000" alt="Google Sheets Automation" />
-  <img src="https://img.shields.io/badge/Discord_Bots-111111?style=for-the-badge&logo=discord&logoColor=FF0000" alt="Discord Bots" />
-</div>
-
-#### 🔴 Controle, Design & Versionamento
-<div>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=FF0000" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FF0000" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-111111?style=for-the-badge&logo=githubcopilot&logoColor=FF0000" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=FF0000" alt="Figma" />
-</div>
+- 🔧 **Foco:** TypeScript, React, Node.js, Python, arquitetura de automações e integração de APIs
+- ⚡ **Ecossistema Orun:** um conjunto de aplicações interligadas — desktop, mobile, segurança e ferramentas de produtividade
+- 🧩 **Engenharia:** back-end sólido, lógica de automação, manipulação de dados e bots de alta performance
+- 🎨 **Estética:** ambientes otimizados e de alta performance com identidade visual *dark/cyberpunk*
 
 ---
 
-### 📂 Diretório de Repositórios & Projetos Focados
+## 🛠️ Arsenal técnico
 
-Navegue diretamente pelos módulos de desenvolvimento ativos no meu perfil:
+#### Linguagens & Core
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-* 🌌 **[Todos os Repositórios Públicos](https://github.com/caiqueDeOliveira-dev?tab=repositories)** — Código fonte dos meus projetos, scripts e interfaces em constante atualização.
-* 🤖 **[Configurações de Automação & Bots](https://github.com/caiqueDeOliveira-dev)** — Estruturas criadas para gerenciar disparos de webhooks, lógica de distribuição de itens em bancos de dados e regras automatizadas para comunidades.
+#### Frontend / Framework
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+#### Backend / Infra
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+#### Ferramentas & Automação
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
 
 ---
 
-### 📊 Painel de Controle (Automação de Métricas em Tempo Real)
+## 🚀 Projetos em destaque
 
-Este painel monitora e computa automaticamente o envio de códigos, o tempo de atividade e a distribuição de linguagens de programação integradas diretamente ao ecossistema através de requisições de API assíncronas do GitHub.
+> **Orun OS** é o meu projeto principal — um sistema operacional pessoal com IA multi-agente.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/caiqueDeOliveira-dev/OrunOS">🖥️ Orun OS</a></h3>
+      <p align="center">Sistema operacional desktop com IA multi-agente. Workspace plugin-based, integrações com WhatsApp/Telegram/Discord, voz, Spotify e sync com Supabase.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/caiqueDeOliveira-dev/OrunOs-Mobile">📱 Orun OS Mobile</a></h3>
+      <p align="center">Versão mobile do ecossistema. App em React Native/Expo com expo-router, design system e engine de sync com Supabase.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/caiqueDeOliveira-dev/OrunShield">🛡️ OrunShield</a></h3>
+      <p align="center">Suite de segurança e otimização do ecossistema Orun. Motor Shield (ClamAV, VirusTotal, YARA, firewall, quarentena) + System Optimizer. 6 pacotes, 124 testes.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/caiqueDeOliveira-dev/OrunVS">🧩 OrunVS</a></h3>
+      <p align="center">Extensão para VS Code — assistente de IA com suporte a múltiplos providers, direto no seu editor.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/caiqueDeOliveira-dev/orun-music-player">🎵 Orun Música</a></h3>
+      <p align="center">Player de música desktop com Spotify, áudio local, rádio, letras e histórico — uma experiência completa de mídia.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/caiqueDeOliveira-dev/Site-Caique-O-Castaldeli-Portifolio">💼 Portfólio Pessoal</a></h3>
+      <p align="center">Portfólio profissional desenvolvido em React + TypeScript + Tailwind CSS, com backend Express/Prisma.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 📦 Mais projetos
+
+- ⚙️ [**Orun-Core**](https://github.com/caiqueDeOliveira-dev/Orun-Core) — Núcleo compartilhado do ecossistema: engine de sync SQLite↔Supabase, tipos de satélites e controle de dispositivos
+- 🐍 [**sistema-login-python**](https://github.com/caiqueDeOliveira-dev/sistema-login-python) — Sistema de autenticação e login em Python com foco em lógica de programação
+- 📦 [**Sistema-Inventario-Clas**](https://github.com/caiqueDeOliveira-dev/Sistema-Inventario-Clas) — Gestão de inventário de clãs e membros
+- ✅ [**todo-list-tkinter**](https://github.com/caiqueDeOliveira-dev/todo-list-tkinter) — To-Do List desktop em Python/Tkinter com persistência local
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiqueDeOliveira-dev&show_icons=true&theme=blood&include_all_commits=true&count_private=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=000000" alt="Estatísticas Automatizadas" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueDeOliveira-dev&layout=compact&theme=blood&title_color=FF0000&text_color=ffffff&bg_color=000000" alt="Análise de Linguagens do Sistema" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caiqueDeOliveira-dev&show_icons=true&theme=dark&count_private=true" alt="Estatísticas" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueDeOliveira-dev&layout=compact&theme=dark" alt="Linguagens" height="160" />
 </div>
 
 <div align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiqueDeOliveira-dev&theme=blood&background=000000&ring=FF0000&fire=FF0000&title=FF0000&text=ffffff" alt="Métricas de Consistência de Código" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiqueDeOliveira-dev&theme=dark" alt="Streak" />
 </div>
 
 ---
 
-### 🌐 Conexões de Rede (Links Oficiais)
-
-Escolha uma das portas abaixo para estabelecer conexão externa direto do ecossistema CaOS:
+## 📬 Entre em contato
 
 <div align="left">
-  <a href="https://hub-caique-o-castalde-git-a6b922-caiquedeoliveira-devs-projects.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Caique_Hub-000000?style=for-the-badge&logo=vercel&logoColor=FF0000" alt="Caique Hub" />
-  </a>
-  <a href="https://site-caique-o-castald-git-d95bd7-caiquedeoliveira-devs-projects.vercel.app/sobre" target="_blank">
-    <img src="https://img.shields.io/badge/Plataforma_Sobre-000000?style=for-the-badge&logo=vercel&logoColor=FF0000" alt="Site Sobre" />
-  </a>
   <a href="https://www.linkedin.com/in/caiquecastaldeli" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:caique_o.castaldeli@hotmail.com">
-    <img src="https://img.shields.io/badge/Email_Direto-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/caiqueDeOliveira-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
   </a>
 </div>
 
-<br>
+---
+
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%98%A3%20TROPA%20DO%20CAOS%20--%20ALL%20RIGHTS%20RESERVED%20%E2%98%A3-black?style=flat-square&labelColor=8B0000" />
+  <sub>© Caique de Oliveira Souza · Todos os direitos reservados</sub>
 </div>
