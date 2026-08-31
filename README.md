@@ -7,19 +7,19 @@
 **Desenvolvedor Full-Stack** · Automações · Arquitetura de Software
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-Criador_de_ECO-sistema-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Orun%20Ecosystem-IA%20Multi%2DAgente-E50914?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 Construindo um ecossistema de aplicações com IA multi-agente. Especializado em back-end, automação de fluxos, integração de dados e sistemas de alta performance.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=caiqueDeOliveira-dev&style=for-the-badge&color=red" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=caiqueDeOliveira-dev&style=for-the-badge&color=E50914" alt="Profile Views" />
 <a href="https://github.com/caiqueDeOliveira-dev?tab=followers">
   <img src="https://img.shields.io/github/followers/caiqueDeOliveira-dev?label=Seguidores&style=for-the-badge&color=181717&logo=github&logoColor=white" alt="Followers" />
 </a>
-<a href="https://github.com/caiqueDeOliveira-dev?tab=repositories">
-  <img src="https://img.shields.io/github/stars/caiqueDeOliveira-dev?label=Stars&affiliations=OWNER&style=for-the-badge&color=FFD700&logo=github&logoColor=white" alt="Stars" />
+<a href="https://www.linkedin.com/in/caiquecastaldeli" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
@@ -169,7 +169,7 @@ Atuo na interseção entre **engenharia de software**, **automação** e **arqui
 
 <div align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiqueDeOliveira-dev&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=caiqueDeOliveira-dev&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 <div align="center">
