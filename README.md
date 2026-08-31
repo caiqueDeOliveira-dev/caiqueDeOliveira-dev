@@ -18,7 +18,7 @@ Construindo um ecossistema de aplicações com IA multi-agente. Especializado em
 <a href="https://github.com/caiqueDeOliveira-dev?tab=followers">
   <img src="https://img.shields.io/github/followers/caiqueDeOliveira-dev?label=Seguidores&style=for-the-badge&color=181717&logo=github&logoColor=white" alt="Followers" />
 </a>
-<a href="https://www.linkedin.com/in/caiquecastaldeli" target="_blank">
+<a href="https://www.linkedin.com/in/caique-deoliveira-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
@@ -181,7 +181,7 @@ Atuo na interseção entre **engenharia de software**, **automação** e **arqui
 ## 📬 Entre em contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/caiquecastaldeli" target="_blank">
+  <a href="https://www.linkedin.com/in/caique-deoliveira-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:caique_o.castaldeli@hotmail.com">
